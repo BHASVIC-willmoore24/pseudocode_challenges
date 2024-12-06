@@ -1,0 +1,6 @@
+# ninja log v6
+42	580	7551820800644264	build.ninja	19ba678c0a58d46b
+13	111	7551783414258505	CMakeFiles/pseudocode_challenges.dir/1_sum-of-array.c.obj	80011e77c8859ef9
+22	110	7551786327135368	CMakeFiles/pseudocode_challenges.dir/2_max-value.c.obj	e61ec4180dbcbf0d
+205	473	7551804353568982	pseudocode_challenges.exe	3fd540a64c2a18be
+27	205	7551804351775699	CMakeFiles/pseudocode_challenges.dir/3_count-vowels.c.obj	104ccc9600a33c79
